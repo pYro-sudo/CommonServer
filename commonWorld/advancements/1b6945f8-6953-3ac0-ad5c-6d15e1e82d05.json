@@ -1,0 +1,225 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-05-11 22:49:54 +0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-05-11 22:49:54 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-05-12 01:32:32 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2024-05-12 00:00:11 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:hoglin": "2024-05-12 00:07:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:hoglin": "2024-05-12 00:07:16 +0300",
+      "minecraft:magma_cube": "2024-05-12 00:15:15 +0300",
+      "minecraft:wither_skeleton": "2024-05-12 00:07:24 +0300"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-05-12 01:29:55 +0300"
+    },
+    "done": true
+  },
+  "awesomeflooring:recipes/metal_floor": {
+    "criteria": {
+      "requirement": "2024-05-11 22:49:54 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-05-11 22:49:54 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-05-11 22:50:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-05-11 23:13:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-05-12 00:20:40 +0300",
+      "porkchop": "2024-05-12 00:24:30 +0300",
+      "bread": "2024-05-11 23:34:32 +0300",
+      "glow_berries": "2024-05-11 23:50:19 +0300",
+      "melon_slice": "2024-05-11 23:00:14 +0300"
+    },
+    "done": false
+  },
+  "awesomedungeon:root": {
+    "criteria": {
+      "awesomedungeon:jungle_giant_tree": "2024-05-11 22:52:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-05-11 23:02:01 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2024-05-11 23:03:57 +0300",
+      "fungal_jungle": "2024-05-11 23:03:55 +0300",
+      "old_growth_woodland": "2024-05-11 23:08:26 +0300",
+      "rocky_rainforest": "2024-05-11 23:35:10 +0300"
+    },
+    "done": false
+  },
+  "awesomeflooring:recipes/glass_floor": {
+    "criteria": {
+      "requirement": "2024-05-11 22:49:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2024-05-11 23:45:24 +0300",
+      "minecraft:stony_peaks": "2024-05-11 23:04:30 +0300",
+      "minecraft:sparse_jungle": "2024-05-11 23:07:53 +0300",
+      "minecraft:river": "2024-05-12 01:41:25 +0300",
+      "minecraft:stony_shore": "2024-05-12 01:32:44 +0300",
+      "minecraft:forest": "2024-05-11 23:02:12 +0300",
+      "minecraft:lush_caves": "2024-05-12 00:38:36 +0300",
+      "minecraft:jungle": "2024-05-11 22:50:29 +0300",
+      "minecraft:savanna": "2024-05-11 22:49:54 +0300",
+      "minecraft:plains": "2024-05-12 01:36:25 +0300"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "fungal_jungle": "2024-05-11 23:03:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-05-12 01:36:15 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-05-11 22:49:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-05-11 22:50:35 +0300"
+    },
+    "done": true
+  },
+  "awesomeflooring:recipes/wood_floor": {
+    "criteria": {
+      "requirement": "2024-05-11 22:53:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-05-11 23:22:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-05-11 23:36:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-05-11 23:14:52 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-05-11 22:50:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-05-11 23:01:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-05-11 23:41:22 +0300"
+    },
+    "done": true
+  },
+  "awesomedungeon:jungle_giant_tree/find_normal": {
+    "criteria": {
+      "requirement": "2024-05-11 22:52:41 +0300"
+    },
+    "done": true
+  },
+  "alcocraft:mug": {
+    "criteria": {
+      "requirement": "2024-05-11 23:46:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-05-11 22:57:37 +0300"
+    },
+    "done": true
+  },
+  "awesomeflooring:recipes/stone_floor": {
+    "criteria": {
+      "requirement": "2024-05-11 22:49:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-05-12 00:08:18 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2024-05-12 00:09:36 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
